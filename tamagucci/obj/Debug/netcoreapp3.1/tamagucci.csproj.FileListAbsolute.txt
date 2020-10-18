@@ -1,0 +1,13 @@
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.exe
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.deps.json
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.runtimeconfig.json
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.runtimeconfig.dev.json
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.dll
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\bin\Debug\netcoreapp3.1\tamagucci.pdb
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.csprojAssemblyReference.cache
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.AssemblyInfoInputs.cache
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.AssemblyInfo.cs
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.csproj.CoreCompileInputs.cache
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.dll
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.pdb
+C:\Users\oscar.lindfors2\Dropbox\Programering 2\Tamagucci\tamagucci\obj\Debug\netcoreapp3.1\tamagucci.genruntimeconfig.cache
